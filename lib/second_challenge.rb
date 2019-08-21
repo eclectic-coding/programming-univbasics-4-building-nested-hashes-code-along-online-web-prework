@@ -13,7 +13,7 @@ def second_challenge
       :hero_friends => {
         
       },
-      }, 
+    }, 
     :capulet => {
       :patriach => {
         
@@ -29,5 +29,4 @@ def second_challenge
       }
     }
   }
-  
 end
